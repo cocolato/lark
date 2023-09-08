@@ -2,6 +2,7 @@
 *.pyo
 /.tox
 /lark_parser.egg-info/**
+/lark.egg-info/**
 tags
 .vscode
 .idea
